@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "9GS1xSc1Vt4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ayse.DESKTOP-RM3G25C\\Documents\\GitHub\\ASP.NET-Core-Web-API-Development\\Week-01\\28.12.2025\\Project01_MinimalApi\\Project01_MinimalApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
+    "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
