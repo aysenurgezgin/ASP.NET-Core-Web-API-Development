@@ -18,5 +18,20 @@ namespace Project02_WebAPI.Controllers
         {
             return "Good Bye";
         }
+        [HttpPost]  // /api/value
+        public string Add()
+        {
+            return "Kayıt eklendi";
+        }
+        [HttpPut]  // /api/value
+        public string Update()
+        {
+            return "Güncellendi";
+        }
+        [HttpDelete]  // /api/value
+        public string Remove()
+        {
+            return "Kayıt silindi";
+        }
     }
 }
