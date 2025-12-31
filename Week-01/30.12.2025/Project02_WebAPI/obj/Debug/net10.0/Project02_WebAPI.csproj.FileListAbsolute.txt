@@ -32,3 +32,6 @@ C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\
 C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-01\30.12.2025\Project02_WebAPI\obj\Debug\net10.0\Project02_WebAPI.pdb
 C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-01\30.12.2025\Project02_WebAPI\obj\Debug\net10.0\Project02_WebAPI.genruntimeconfig.cache
 C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-01\30.12.2025\Project02_WebAPI\obj\Debug\net10.0\ref\Project02_WebAPI.dll
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-01\30.12.2025\Project02_WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-01\30.12.2025\Project02_WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Ayse.DESKTOP-RM3G25C\Documents\GitHub\ASP.NET-Core-Web-API-Development\Week-01\30.12.2025\Project02_WebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll

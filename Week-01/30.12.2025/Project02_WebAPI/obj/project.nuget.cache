@@ -1,11 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "HULpO3ihC1A=",
+  "dgSpecHash": "CC3hskNBJS8=",
   "success": true,
   "projectFilePath": "C:\\Users\\Ayse.DESKTOP-RM3G25C\\Documents\\GitHub\\ASP.NET-Core-Web-API-Development\\Week-01\\30.12.2025\\Project02_WebAPI\\Project02_WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.1\\microsoft.aspnetcore.openapi.10.0.1.nupkg.sha512",
-    "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+    "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.0\\swashbuckle.aspnetcore.10.1.0.nupkg.sha512",
+    "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.0\\swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
+    "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.0\\swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
+    "C:\\Users\\Ayse.DESKTOP-RM3G25C\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.0\\swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512"
   ],
   "logs": []
 }

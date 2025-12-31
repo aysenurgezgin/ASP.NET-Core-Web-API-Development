@@ -3,20 +3,20 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Project02_WebAPI.Controllers
 {
-    [Route("api/[controller]")]  // /api/value
+    [Route("api/value")]  // /api/value
     [ApiController]
     public class ValueController : ControllerBase
     {
         [HttpGet] // /api/value
-        public string   Hello()
+        public string   GetAll()
         {
-            return "Hello World!";
+            return "Ürünler listelendi";
         }
-        [HttpGet("bye")] // /api/value/bye
+        [HttpGet("{id}")] // /api/value/bye
        // [Route("bye")]
-        public string GoodBye()
+        public string Get(int id)//dışardan id değeri alacaksa bu methodun parametre alması gerekiyor.(ve o id yi int i diyerek tanımlıyoruz)
         {
-            return "Good Bye";
+            return $"{id}id'li ürün getirildi.";
         }
         [HttpPost]  // /api/value
         public string Add()
